@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.oxide.app'
+    namespace 'com.spotify.app'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.oxide.app"
+        applicationId "com.spotify.app"
         minSdk 21
         targetSdk 34
         versionCode 1
