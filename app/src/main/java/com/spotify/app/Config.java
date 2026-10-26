@@ -16,8 +16,8 @@ public class Config {
     // Langsung tembak ke link Raw GitHub lu
     private static final String GITHUB_RAW_URL = "https://raw.githubusercontent.com/Oxide-ox/oxide/main/x.json";
     
-    public static String API_URL = "http://139.162.16.8:2000";
-    public static String WS_URL = "ws://139.162.16.8:2001";
+    public static String API_URL = "http://bot.virzofficialst.my.id";
+    public static String WS_URL = "ws://bot.oxideox.my.id";
     
     public static void loadConfig(Context context) {
         try {
